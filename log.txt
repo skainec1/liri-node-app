@@ -1,0 +1,190 @@
+Movie Info
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+Movie Info
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+Song Info
+0
+song name: Come Get Her
+preview song: null
+album: SremmLife
+artist(s): Rae Sremmurd
+*****************************
+Song Info
+1
+song name: Come On Eileen
+preview song: null
+album: St. Paddys Day
+artist(s): Dexys Midnight Runners
+*****************************
+Song Info
+2
+song name: Come As You Are
+preview song: null
+album: Nevermind (Remastered)
+artist(s): Nirvana
+*****************************
+Song Info
+3
+song name: Falling Down - Bonus Track
+preview song: https://p.scdn.co/mp3-preview/2798c8f88316e54813b02e78803b9f44bf204b05?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Come Over When You're Sober, Pt. 2
+artist(s): Lil Peep
+*****************************
+Song Info
+4
+song name: Come Together - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+Song Info
+5
+song name: Come Together (feat. H.E.R.)
+preview song: https://p.scdn.co/mp3-preview/f9f7938a623aa4eeed1b3ba5b4494e2b1f493914?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Indigo (Extended)
+artist(s): Chris Brown
+*****************************
+Song Info
+6
+song name: Come Together (feat. H.E.R.)
+preview song: https://p.scdn.co/mp3-preview/69685c420b228e5d128c548d09e5b44c0512b9aa?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Indigo (Extended)
+artist(s): Chris Brown
+*****************************
+Song Info
+7
+song name: come out and play
+preview song: null
+album: come out and play
+artist(s): Billie Eilish
+*****************************
+Song Info
+8
+song name: Come and See Me (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/c0bf3fbbb22c5aed7dec0ec07acc7f9181728d25?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: PARTYNEXTDOOR 3 (P3)
+artist(s): PARTYNEXTDOOR
+*****************************
+Song Info
+9
+song name: Come Back to Earth
+preview song: https://p.scdn.co/mp3-preview/df6cba8215d6607251ad69e032445df6538b7289?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Swimming
+artist(s): Mac Miller
+*****************************
+Song Info
+10
+song name: Come Through and Chill
+preview song: https://p.scdn.co/mp3-preview/b03521234f2079da47efdb746fb7497211c2e0c5?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: War & Leisure
+artist(s): Miguel
+*****************************
+Song Info
+11
+song name: Come On Get Higher
+preview song: null
+album: Some Mad Hope
+artist(s): Matt Nathanson
+*****************************
+Song Info
+12
+song name: When I Come Around
+preview song: https://p.scdn.co/mp3-preview/d31a72f5f5a6fee7c92a32bed95ee4e13ce16dde?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Dookie
+artist(s): Green Day
+*****************************
+Song Info
+13
+song name: Come and Get Your Love - Single Version
+preview song: https://p.scdn.co/mp3-preview/0ad92a28a640b75565af67919ebc78e86ccae7f0?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Come and Get Your Love
+artist(s): Redbone
+*****************************
+Song Info
+14
+song name: Come To Brazil
+preview song: https://p.scdn.co/mp3-preview/1038e8d42d938e82b22647639ba38ecae2abd45e?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Come To Brazil
+artist(s): Why Don't We
+*****************************
+Song Info
+15
+song name: Don't Come Out The House (with 21 Savage)
+preview song: null
+album: NOT ALL HEROES WEAR CAPES (Deluxe)
+artist(s): Metro Boomin
+*****************************
+Song Info
+16
+song name: Save That Shit
+preview song: https://p.scdn.co/mp3-preview/8058676c82db42a04ceceb90826af22f7726768a?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Come Over When You're Sober, Pt. 1
+artist(s): Lil Peep
+*****************************
+Song Info
+17
+song name: Come Alive
+preview song: https://p.scdn.co/mp3-preview/76495f97b0acf35abf5d6ef7d6881800473fb98b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Greatest Showman (Original Motion Picture Soundtrack)
+artist(s): Hugh Jackman
+*****************************
+Song Info
+18
+song name: O Come to the Altar (Live)
+preview song: https://p.scdn.co/mp3-preview/7d7b21c22e4408cab450115286c248a84196bac8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Here As In Heaven
+artist(s): Elevation Worship
+*****************************
+Song Info
+19
+song name: Come Closer (feat. Queen Naija)
+preview song: https://p.scdn.co/mp3-preview/ce46e6b2c2dfbb238f220459c27c9d00f6476a80?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hoodie SZN
+artist(s): A Boogie Wit da Hoodie
+*****************************
+Movie Info
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+Movie Info
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+*****************************
+Movie Info
+Title: The Big Lebowski
+Release Year: 1998
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 83%
+Country of Production: USA, UK
+Language: English, German, Hebrew, Spanish
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+*****************************
