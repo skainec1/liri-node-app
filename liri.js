@@ -1,5 +1,7 @@
 require("dotenv").config();
 var keys = require("./keys.js");
+var moment = require('moment'); 
+moment().format();
 var fs = require("fs");
 var Spotify = require("node-spotify-api");
 var axios = require("axios");
@@ -17,7 +19,7 @@ UserInputs(userOption, inputParameter);
 function UserInputs (userOption, inputParameter){
     switch (userOption) {
     case 'concert-this':
-        bandsinTown(inputParameter);
+        concertThis();
         break;
     case 'spotify-this-song':
         songInfo(inputParameter);
@@ -26,21 +28,22 @@ function UserInputs (userOption, inputParameter){
         movieInfo(inputParameter);
         break;
     case 'do-what-it-says':
-        showSomeInfo();
+        showInfo();
         break;
     default: 
         console.log("Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
     }
 }
 
-var bandsinTown = function(inputParameter) {
-    var artist = inputParameter;
-    var queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+ function concertThis() {
+    inputParameter = process.argv.slice(3).join("+");
+    console.log(inputParameter);
+    var queryURL = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
    axios.get(queryURL).then(function(response) {
     
-        for (var i = 0; i < response.data.length; i++) {  
+        for (var i = 0; i < 5; i++) {  
             console.log("Event Info");  
-            fs.appendFileSync("log.txt", "Event Info\n");//Append in log.txt file
+            fs.appendFileSync("log.txt", "Event Info\n");
             console.log(i);
             fs.appendFileSync("log.txt", i+"\n");
             console.log("Name of the Venue: " + response.data[i].venue.name);
@@ -59,6 +62,8 @@ function songInfo(inputParameter) {
     if (inputParameter === undefined) {
         inputParameter = "The Sign"; 
     }
+    inputParameter = process.argv.slice(3).join("+");
+    console.log(inputParameter);
     spotify.search(
         {
             type: "track",
@@ -67,7 +72,7 @@ function songInfo(inputParameter) {
          
             var songs = response.tracks.items;
 
-            for (var i = 0; i < songs.length; i++) {
+            for (var i = 0; i < 5; i++) {
                 console.log("Song Info");
                 fs.appendFileSync("log.txt", "Song Info\n");
                 console.log(i);
@@ -117,8 +122,14 @@ function movieInfo(inputParameter) {
         }
 )}
 
-var showSomeInfo = function() {
-    fs.readFile('random.txt')
-    inputParameter = "I want it that way"
-    songInfo(inputParameter);
+function showInfo() {
+
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        if (error) {
+            return console.log(error);
+        }
+        var dataArr = data.split(',');
+        console.log(dataArr);
+       songInfo(dataArr[1]);
+    })
 }

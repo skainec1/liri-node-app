@@ -188,3 +188,985 @@ Language: English, German, Hebrew, Spanish
 Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
 Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
 *****************************
+Event Info
+0
+Name of the Venue: Rocket Mortgage FieldHouse
+Venue Location: Cleveland
+Date of the Event: 2019-10-18T19:30:00
+*****************************
+Event Info
+1
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-10-20T00:00:00
+*****************************
+Event Info
+2
+Name of the Venue: KFC Yum! Center
+Venue Location: Louisville
+Date of the Event: 2019-10-22T19:30:00
+*****************************
+Event Info
+3
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 2019-10-24T19:30:00
+*****************************
+Event Info
+4
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-10-26T00:00:00
+*****************************
+Event Info
+5
+Name of the Venue: Sprint Center
+Venue Location: Kansas City
+Date of the Event: 2019-10-28T19:30:00
+*****************************
+Event Info
+6
+Name of the Venue: Fargodome
+Venue Location: Fargo
+Date of the Event: 2019-10-30T19:30:00
+*****************************
+Event Info
+7
+Name of the Venue: Target Center
+Venue Location: Minneapolis
+Date of the Event: 2019-11-01T00:00:00
+*****************************
+Event Info
+8
+Name of the Venue: Fiserv Forum
+Venue Location: Milwaukee
+Date of the Event: 2019-11-03T19:30:00
+*****************************
+Event Info
+9
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-11-05T19:30:00
+*****************************
+Event Info
+10
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-11-18T19:30:00
+*****************************
+Event Info
+11
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-11-19T19:30:00
+*****************************
+Event Info
+12
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-11-21T19:30:00
+*****************************
+Event Info
+13
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-11-22T19:30:00
+*****************************
+Event Info
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-12-01T19:30:00
+*****************************
+Event Info
+15
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-12-03T19:30:00
+*****************************
+Event Info
+16
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-12-05T19:30:00
+*****************************
+Event Info
+17
+Name of the Venue: Times Union Center
+Venue Location: Albany
+Date of the Event: 2019-12-07T00:00:00
+*****************************
+Event Info
+18
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-12-09T19:30:00
+*****************************
+Event Info
+19
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-12-10T19:30:00
+*****************************
+Event Info
+20
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-13T19:30:00
+*****************************
+Event Info
+21
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-14T19:30:00
+*****************************
+Event Info
+22
+Name of the Venue: VyStar Veterans Memorial Arena
+Venue Location: Jacksonville
+Date of the Event: 2020-01-08T00:00:00
+*****************************
+Event Info
+23
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2020-01-11T19:30:00
+*****************************
+Event Info
+24
+Name of the Venue: Bridgestone Arena
+Venue Location: Nashville
+Date of the Event: 2020-01-13T19:30:00
+*****************************
+Event Info
+25
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2020-01-15T00:00:00
+*****************************
+Event Info
+26
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2020-01-17T19:30:00
+*****************************
+Event Info
+27
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2020-01-18T19:30:00
+*****************************
+Event Info
+28
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2020-01-21T19:30:00
+*****************************
+Event Info
+29
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2020-01-30T19:30:00
+*****************************
+Event Info
+30
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2020-02-01T19:30:00
+*****************************
+Event Info
+31
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2020-02-03T19:30:00
+*****************************
+Event Info
+32
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2020-02-05T19:30:00
+*****************************
+Event Info
+33
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2020-02-07T19:30:00
+*****************************
+Event Info
+34
+Name of the Venue: FedExForum
+Venue Location: Memphis
+Date of the Event: 2020-02-09T19:30:00
+*****************************
+Event Info
+35
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2020-02-11T19:30:00
+*****************************
+Event Info
+36
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2020-02-18T19:30:00
+*****************************
+Event Info
+37
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2020-02-19T19:30:00
+*****************************
+Event Info
+38
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2020-02-22T00:00:00
+*****************************
+Event Info
+39
+Name of the Venue: Royal Farms Arena (formerly Baltimore Arena)
+Venue Location: Baltimore
+Date of the Event: 2020-02-24T19:30:00
+*****************************
+Event Info
+40
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2020-02-26T19:30:00
+*****************************
+Event Info
+41
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2020-02-28T00:00:00
+*****************************
+Event Info
+42
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2020-02-29T19:30:00
+*****************************
+Event Info
+43
+Name of the Venue: Nassau Veterans Memorial Coliseum
+Venue Location: Uniondale
+Date of the Event: 2020-03-03T19:30:00
+*****************************
+Event Info
+44
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2020-03-05T19:30:00
+*****************************
+Event Info
+45
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2020-03-07T19:30:00
+*****************************
+Event Info
+46
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2020-03-08T19:30:00
+*****************************
+Event Info
+47
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2020-03-11T19:30:00
+*****************************
+Event Info
+48
+Name of the Venue: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 2020-03-13T19:30:00
+*****************************
+Event Info
+49
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2020-03-24T19:30:00
+*****************************
+Event Info
+50
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2020-03-26T19:30:00
+*****************************
+Event Info
+51
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2020-03-29T20:00:00
+*****************************
+Event Info
+52
+Name of the Venue: Pechanga Arena San Diego
+Venue Location: San Diego
+Date of the Event: 2020-03-31T19:30:00
+*****************************
+Event Info
+53
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2020-04-02T19:30:00
+*****************************
+Event Info
+54
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2020-04-03T19:30:00
+*****************************
+Event Info
+55
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2020-04-07T19:30:00
+*****************************
+Event Info
+56
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2020-04-09T19:30:00
+*****************************
+Event Info
+57
+Name of the Venue: Chase Center
+Venue Location: San Francisco
+Date of the Event: 2020-04-10T19:30:00
+*****************************
+Event Info
+58
+Name of the Venue: Chase Center
+Venue Location: San Francisco
+Date of the Event: 2020-04-11T19:30:00
+*****************************
+Event Info
+59
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2020-04-13T19:30:00
+*****************************
+Event Info
+60
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2020-04-15T19:30:00
+*****************************
+Event Info
+61
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2020-04-17T19:30:00
+*****************************
+Event Info
+62
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2020-04-18T19:30:00
+*****************************
+Event Info
+63
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2020-04-21T19:30:00
+*****************************
+Event Info
+64
+Name of the Venue: Rogers Place
+Venue Location: Edmonton
+Date of the Event: 2020-04-22T19:30:00
+*****************************
+Event Info
+65
+Name of the Venue: Sasktel Centre
+Venue Location: Saskatoon
+Date of the Event: 2020-04-25T19:30:00
+*****************************
+Event Info
+66
+Name of the Venue: Bell MTS Place
+Venue Location: Winnipeg
+Date of the Event: 2020-04-27T19:30:00
+*****************************
+Event Info
+67
+Name of the Venue: O2 Arena
+Venue Location: Prague
+Date of the Event: 2020-05-21T20:00:00
+*****************************
+Event Info
+68
+Name of the Venue: Atlas Arena
+Venue Location: Łódź
+Date of the Event: 2020-05-23T20:00:00
+*****************************
+Event Info
+69
+Name of the Venue: Tauron Arena Krakow
+Venue Location: Kraków
+Date of the Event: 2020-05-25T20:00:00
+*****************************
+Event Info
+70
+Name of the Venue: Sportpaleis
+Venue Location: Antwerpen - Merksem
+Date of the Event: 2020-05-28T19:30:00
+*****************************
+Event Info
+71
+Name of the Venue: Sportpaleis
+Venue Location: Antwerpen - Merksem
+Date of the Event: 2020-05-30T19:30:00
+*****************************
+Event Info
+72
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2020-06-02T19:30:00
+*****************************
+Event Info
+73
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2020-06-03T19:30:00
+*****************************
+Event Info
+74
+Name of the Venue: ARENA ZAGREB
+Venue Location: Zagreb
+Date of the Event: 2020-06-05T19:30:00
+*****************************
+Event Info
+75
+Name of the Venue: Papp Laszlo Arena
+Venue Location: Budapest
+Date of the Event: 2020-06-07T20:00:00
+*****************************
+Event Info
+76
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2020-06-10T19:30:00
+*****************************
+Event Info
+77
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2020-06-12T19:30:00
+*****************************
+Event Info
+78
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2020-06-13T19:30:00
+*****************************
+Event Info
+79
+Name of the Venue: Wiener Stadthalle - Halle D
+Venue Location: Wien
+Date of the Event: 2020-06-15T19:30:00
+*****************************
+Event Info
+80
+Name of the Venue: Kleine Olympiahalle München
+Venue Location: München
+Date of the Event: 2020-06-17T18:30:00
+*****************************
+Event Info
+81
+Name of the Venue: SAP Arena
+Venue Location: Mannheim
+Date of the Event: 2020-06-19T18:30:00
+*****************************
+Event Info
+82
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2020-06-21T18:00:00
+*****************************
+Event Info
+83
+Name of the Venue: Barclaycard Arena Hamburg
+Venue Location: Hamburg
+Date of the Event: 2020-06-22T19:30:00
+*****************************
+Event Info
+84
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-06-26T20:00:00
+*****************************
+Event Info
+85
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-06-27T20:00:00
+*****************************
+Event Info
+86
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-06-30T20:00:00
+*****************************
+Event Info
+87
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-07-01T20:00:00
+*****************************
+Event Info
+88
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-07-03T19:30:00
+*****************************
+Event Info
+89
+Name of the Venue: PARIS LA DEFENSE ARENA
+Venue Location: Nanterre
+Date of the Event: 2020-07-04T19:30:00
+*****************************
+Event Info
+90
+Name of the Venue: Plaine De L'asse
+Venue Location: Nyon
+Date of the Event: 2020-07-20T00:00:00
+*****************************
+Event Info
+91
+Name of the Venue: Waldbühne Berlin
+Venue Location: Berlin
+Date of the Event: 2020-07-22T19:30:00
+*****************************
+Event Info
+92
+Name of the Venue: Mura di Lucca - Viale Carducci
+Venue Location: Lucca
+Date of the Event: 2020-07-25T21:00:00
+*****************************
+Event Info
+93
+Name of the Venue: National Stadium Bukarest
+Venue Location: Bucharest
+Date of the Event: 2020-07-29T17:00:00
+*****************************
+Event Info
+94
+Name of the Venue: Hartwall Arena
+Venue Location: Helsinki
+Date of the Event: 2020-08-24T19:30:00
+*****************************
+Event Info
+95
+Name of the Venue: Hartwall Arena
+Venue Location: Helsinki
+Date of the Event: 2020-08-25T19:30:00
+*****************************
+Event Info
+96
+Name of the Venue: Telenor Arena
+Venue Location: Fornebu
+Date of the Event: 2020-08-28T18:00:00
+*****************************
+Event Info
+97
+Name of the Venue: Telenor Arena
+Venue Location: Fornebu
+Date of the Event: 2020-08-29T18:00:00
+*****************************
+Event Info
+98
+Name of the Venue: Royal Arena
+Venue Location: København S
+Date of the Event: 2020-08-31T19:30:00
+*****************************
+Event Info
+99
+Name of the Venue: Royal Arena
+Venue Location: København S
+Date of the Event: 2020-09-01T20:00:00
+*****************************
+Event Info
+100
+Name of the Venue: Manchester Arena
+Venue Location: Manchester
+Date of the Event: 2020-09-04T00:00:00
+*****************************
+Event Info
+101
+Name of the Venue: Manchester Arena
+Venue Location: Manchester
+Date of the Event: 2020-09-05T18:30:00
+*****************************
+Event Info
+102
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2020-09-08T18:30:00
+*****************************
+Event Info
+103
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2020-09-09T18:30:00
+*****************************
+Event Info
+104
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2020-09-11T00:00:00
+*****************************
+Event Info
+105
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2020-09-12T00:00:00
+*****************************
+Event Info
+106
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2020-09-14T18:30:00
+*****************************
+Event Info
+107
+Name of the Venue: 3Arena
+Venue Location: Dublin
+Date of the Event: 2020-09-15T18:30:00
+*****************************
+Event Info
+108
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2020-09-17T00:00:00
+*****************************
+Event Info
+109
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2020-09-18T00:00:00
+*****************************
+Event Info
+0
+Name of the Venue: Rocket Mortgage FieldHouse
+Venue Location: Cleveland
+Date of the Event: 2019-10-18T19:30:00
+*****************************
+Event Info
+1
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-10-20T00:00:00
+*****************************
+Event Info
+2
+Name of the Venue: KFC Yum! Center
+Venue Location: Louisville
+Date of the Event: 2019-10-22T19:30:00
+*****************************
+Event Info
+3
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 2019-10-24T19:30:00
+*****************************
+Event Info
+4
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-10-26T00:00:00
+*****************************
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
+Song Info
+0
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
+Event Info
+0
+Name of the Venue: Rocket Mortgage FieldHouse
+Venue Location: Cleveland
+Date of the Event: 2019-10-18T19:30:00
+*****************************
+Event Info
+1
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-10-20T00:00:00
+*****************************
+Event Info
+2
+Name of the Venue: KFC Yum! Center
+Venue Location: Louisville
+Date of the Event: 2019-10-22T19:30:00
+*****************************
+Event Info
+3
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 2019-10-24T19:30:00
+*****************************
+Event Info
+4
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-10-26T00:00:00
+*****************************
+Movie Info
+Title: The Big Lebowski
+Release Year: 1998
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 83%
+Country of Production: USA, UK
+Language: English, German, Hebrew, Spanish
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+*****************************
+Movie Info
+Title: The Big Lebowski
+Release Year: 1998
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 83%
+Country of Production: USA, UK
+Language: English, German, Hebrew, Spanish
+Plot: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+*****************************
+Event Info
+0
+Name of the Venue: Rocket Mortgage FieldHouse
+Venue Location: Cleveland
+Date of the Event: 2019-10-18T19:30:00
+*****************************
+Event Info
+1
+Name of the Venue: Schottenstein Center
+Venue Location: Columbus
+Date of the Event: 2019-10-20T00:00:00
+*****************************
+Event Info
+2
+Name of the Venue: KFC Yum! Center
+Venue Location: Louisville
+Date of the Event: 2019-10-22T19:30:00
+*****************************
+Event Info
+3
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 2019-10-24T19:30:00
+*****************************
+Event Info
+4
+Name of the Venue: Enterprise Center
+Venue Location: St. Louis
+Date of the Event: 2019-10-26T00:00:00
+*****************************
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
+Song Info
+0
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+Song Info
+1
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+Song Info
+2
+song name: Ya Hey
+preview song: https://p.scdn.co/mp3-preview/33c2666ae550b792be6a27eff4a068867cc21e4b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Modern Vampires of the City
+artist(s): Vampire Weekend
+*****************************
+Song Info
+3
+song name: Hey Ya
+preview song: https://p.scdn.co/mp3-preview/2edce4dd0302c64a1c0cb8a96eb7031bd224bd66?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: Hey Ya
+artist(s): Sweater Beats
+*****************************
+Song Info
+4
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/4c311a75d12c40f622ba7109cf7d0a6b75740b9b?cid=f1ae92b417ed4086bd0ffaa68c335275
+album: 00s Party Mixtape
+artist(s): OutKast
+*****************************
